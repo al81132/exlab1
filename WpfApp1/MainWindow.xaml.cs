@@ -21,4 +21,9 @@ namespace WpfApp1
             InitializeComponent();
         }
     }
+
+    public class al81696
+    {
+        private string nome;
+    }
 }
