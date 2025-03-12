@@ -21,13 +21,4 @@ namespace WpfApp1
             InitializeComponent();
         }
     }
-    public class al81048
-    {
-        private int al;
-
-        public al81048 (int a)
-        {
-            al = a;
-        }
-    }
 }
